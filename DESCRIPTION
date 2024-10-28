@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+Package: NewLab2
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+=======
+Package: NewLab2
+Type: Package
+Title: DRG function (Title Case)
+Version: 4.4.1
+Author: Chujun Huang, Xindan Liang, Kening Luo
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: ggplot2, dplyr, rlang
+>>>>>>> 3ed12deb0efba3983f7483fea7e684f0b6fbdc60
