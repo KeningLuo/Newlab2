@@ -1,0 +1,19 @@
+---
+title: "Test for lab2"
+author: "Kening Luo"
+format: 
+  html:
+    embed-resources: true
+---
+
+
+```{r options, include=FALSE}
+knitr::opts_chunk$set(cache=FALSE, error=TRUE, message=TRUE, warning=FALSE)
+```
+
+## load the package
+```{r}
+library(devtools)
+
+devtools::install_github("KeningLuo/Newlab2")
+```
