@@ -37,9 +37,9 @@ Function1 <- function(data, payment_type = "average Medicare payments") {
 
   # Create a mapping from user input to the actual column names in the data
   payment_type_map <- list(
-    "average Medicare payments" = "Average.Medicare.Payments",
-    "average total payment" = "Average.Total.Payments",
-    "average covered charges" = "Average.Covered.Charges"
+    "average Medicare payments" = "Average Medicare Payments",
+    "average total payment" = "Average Total Payments",
+    "average covered charges" = "Average Covered Charges"
   )
 
   # Retrieve the correct column name
